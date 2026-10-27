@@ -1,7 +1,7 @@
 {
-  "enabled": true,
+  "enabled": false,
   "admob": {
-    "enabled": true,
+    "enabled": false,
     "app_id": "ca-app-pub-3940256099942544~3347511713",
     "banner": "ca-app-pub-3940256099942544/6300978111",
     "native": "ca-app-pub-3940256099942544/2247696110",
@@ -9,7 +9,7 @@
     "app_open": "ca-app-pub-3940256099942544/9257395921"
   },
   "facebook": {
-    "enabled": true,
+    "enabled": false,
     "app_id": "",
     "banner": "",
     "native": "",
