@@ -2,11 +2,11 @@
   "enabled": false,
   "admob": {
     "enabled": false,
-    "app_id": "ca-app-pub-3940256099942544~3347511713",
-    "banner": "ca-app-pub-3940256099942544/6300978111",
-    "native": "ca-app-pub-3940256099942544/2247696110",
-    "interstitial": "ca-app-pub-3940256099942544/1033173712",
-    "app_open": "ca-app-pub-3940256099942544/9257395921"
+    "app_id": "",
+    "banner": "",
+    "native": "",
+    "interstitial": "",
+    "app_open": ""
   },
   "facebook": {
     "enabled": false,
@@ -18,19 +18,19 @@
   },
   "interstitial": {
     "enabled": true,
-    "frequency": 3
+    "frequency": 300
   },
   "app_open": {
-    "enabled": true
+    "enabled": false
   },
   "privacy_policy_url": "https://dystraindo.blogspot.com/p/privacy-policy.html",
   "feedback_email": "developer@example.com",
   "placements": {
-    "home": "banner",
-    "connected_watch": "native",
-    "watch_face": "native",
-    "settings": "native",
-    "connect": "banner",
-    "watch_brands": "banner"
+    "home": "off",
+    "connected_watch": "off",
+    "watch_face": "off",
+    "settings": "off",
+    "connect": "off",
+    "watch_brands": "off"
   }
 }
